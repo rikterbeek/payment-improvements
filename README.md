@@ -1,4 +1,4 @@
-# Repo dedicated to Payment Improvements
+# Repository dedicated to Payment Improvements
 
 ## Improvements
 
@@ -19,6 +19,5 @@
 
 * To method canUseForCurrency() of intereface Magento\Payment\Model\MethodInterface add additional param 
 
-* https://github.com/magento/magento2/issues/5857
 
 ## MFTF tests coverage
